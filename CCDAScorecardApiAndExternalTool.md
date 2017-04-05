@@ -25,7 +25,13 @@
             *   Troubleshooting Notes
                   *   Many (mainly consumer based, e.g. Comcast) ISPs block port 25. If this is the case for you, you will need to connect in another manner to use the service such as using a VPN or a mobile device hotspot.
     *   In either case, a detailed PDF report will be returned to the email address that sent the document to the "One-Click" Scorecard service. The report provides a rough quantitative assessment and highlights areas of improvement which can be made today to move the needle forward in interoperability of C-CDA documents.
-    
+
+*   **How to Download and Run the Scorecard Locally (Local Instantiation):**
+    1.   TODO: Mounika - please update these instructions both here and in the .md file for the repo. This can be based off the existing word doc but probably somewhat summarized.
+    2.   Visit the following link https://github.com/siteadmin/Scorecard-Local-Instantiation/tree/master/LatestScorecardVersion
+    3.   Download the WAR file
+    4.   Follow the configuration file instructions
+
 *   **How to Use the Scorecard Batch Application:**
     *   Either download the instructions [here](https://github.com/siteadmin/scorecard-batch/raw/master/artifacts/Scorecard-%20Batch-%20Process-Instructions.docx) or read the following instructions:
         1.  Download the jar file from [https://github.com/siteadmin/scorecard-batch/tree/master/artifacts](https://github.com/siteadmin/scorecard-batch/tree/master/artifacts)
