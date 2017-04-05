@@ -1,3 +1,8 @@
+#### Rules (rubrics)
+
+*   The rules were created in a combined effort between the ONC, HL7, vendors, and developers. They are meant to be continually improved. The rules provide a basis for determining where best-practices can be implemented, control the underlying purpose of the application, and allow for a final score and report to be provided. A full set of the the rules used, their related sections, and the XPath to their elements can be found here:
+    * http://www.insert-a-local-or-external-link-to-download-the-spreadsheet-here.com
+
 #### Scoring Criteria
 
 *   Each C-CDA document is scored and graded for a set of enhanced interoperability rules developed by HL7. A higher score (grade) means that information is coded with appropriate structure and semantics and hence has a better chance of interoperating with disparate systems. The maximum score is 100 points and the grades are:
@@ -25,8 +30,3 @@
         * A Conformance Error implies that the document is non-compliant with the HL7 C-CDA IG requirements. This column should have zeros ideally. Providers should work with their health IT vendor to rectify the errors.
     * Certification Feedback:
         * A Certification Feedback result identifies areas where the generated documents are not compliant with the requirements of 2015 Edition Certification. Ideally, this column should have all zeros.Most of these results fall into incorrect use of vocabularies and terminologies. Although not as severe as a Conformance Error, providers should work with their health IT vendor to address feedback provided to improve interoperable use of structured data between systems.
-
-#### Rules (rubrics)
-
-*   The rules were created in a combined effort between the ONC, HL7, vendors, and developers. They are meant to be continually improved. The rules provide a basis for determining where best-practices can be implemented, control the underlying purpose of the application, and allow for a final score and report to be provided. A full set of the the rules used, their related sections, and the XPath to their elements can be found here:
-    * http://www.insert-a-local-or-external-link-to-download-the-spreadsheet-here.com
