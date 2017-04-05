@@ -1,7 +1,6 @@
 #### Rules (rubrics)
 
-*   The rules were created in a combined effort between the ONC, HL7, vendors, and developers. They are meant to be continually improved. The rules provide a basis for determining where best-practices can be implemented, control the underlying purpose of the application, and allow for a final score and report to be provided. A full set of the the rules used, their related sections, and the XPath to their elements can be found here:
-    * http://www.insert-a-local-or-external-link-to-download-the-spreadsheet-here.com
+*   The rules were created in a combined effort between the ONC, HL7, vendors, and developers. They are meant to be continually improved. The rules provide a basis for determining where best-practices can be implemented, control the underlying purpose of the application, and allow for a final score and report to be provided. A full set of the the rules used, their related sections, and the XPath to their elements can be found [here](/scorecard/resources/LOINC.csv).
 
 #### Scoring Criteria
 
