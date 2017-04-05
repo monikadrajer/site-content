@@ -16,6 +16,17 @@
 
 #### Scorecard External Tool Instructions
 
+*   **How to Use the "One-Click" Scorecard Direct Email Service:**
+      *   Using a HISP 
+            1.   Send a Direct message with an attached C-CDA document (with an .xml extension) from your Direct email address to xxx@ds.sitenv.org (TODO: update to a publicly providable address or delete)
+      *   Using your preferred email client (e.g. Mozilla Thunderbird)
+            1.   Add a new email account with your Direct email address and settings
+            2.   Send an email with an attached C-CDA document (with an .xml extension) from your Direct email address to xxx@ds.sitenv.org (TODO: update to a publicly providable address or delete)
+                 * Troubleshooting Notes:
+                     * Many (mainly consumer based, e.g. Comcast) ISPs block port 25. If this is the case for you, you will need to connect in another manner to use the service such as using a VPN or a mobile device hotspot.
+      *   In either case, a detailed PDF report will be returned to the email address that sent the document to the "One-Click" Scorecard service. The report provides a rough quantitative assessment and highlights areas of improvement which can be made today to move the needle forward in interoperability of C-CDA documents.
+    
+    
 *   **How to Use the Scorecard Batch Application:**
     *   Either download the instructions [here](https://github.com/siteadmin/scorecard-batch/raw/master/artifacts/Scorecard-%20Batch-%20Process-Instructions.docx) or read the following instructions:
         1.  Download the jar file from [https://github.com/siteadmin/scorecard-batch/tree/master/artifacts](https://github.com/siteadmin/scorecard-batch/tree/master/artifacts)
